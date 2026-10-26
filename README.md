@@ -28,3 +28,5 @@ Added docstrings to every function (PEP 257)
 Replaced loops with a list comprehension and join()
 Replaced a hard-coded number with the named constant LONG_WORD_THRESHOLD
 Added a comment that explains why, not just what
+
+https://youtu.be/N6c2ogSy7co
